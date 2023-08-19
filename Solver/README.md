@@ -2,6 +2,6 @@
 
 Implementation of DPLL(Davis–Putnam–Logemann–Loveland) algorithm in C++
 
-`g++ solver.cpp`
+`g++ SAT.cpp`
 
 `.\a.out`
